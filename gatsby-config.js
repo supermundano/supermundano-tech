@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Supermundano Tech`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Carlos Faria`,
+      summary: `que vive y trabaja en Valencia, España. Supermundano full time :D`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Blog sobre tecnología web. Cajón organizado con lo que vamos aprendiendo en Supermundano.`,
+    siteUrl: `https://tech.supermundano.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `fren`,
     },
   },
   plugins: [
