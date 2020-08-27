@@ -1,9 +1,16 @@
+---
+title: Empezando Findmast 🤓
+date: "2020-08-27T11:22:03"
+description: "Empezamos el proyecto para encontrar partes de mástiles. Estudiamos como vamos a hacerlo y las herramientas a utilizar."
+---
+
 ## Qué vamos a necesitar para desarrollar Findmast
 
-La idea de esta aplicación es que alguien pueda subir una parte de su mástil roto (la que tenga intacta) y pueda subirlo a la plataforma para que otra gente pueda encontrarlo y que los usuarios puedan ponerse en contacto para acordar quién se queda la parte que toque. Ya se que el nicho es super reducido y que lo más seguro es que no lo utilice prácticamente nadie, pero la idea es que el proyecto nos sirva para aprender a desarrollar una app completa en JAMStack y si de paso la utiliza alguien pues mejor que mejor...
+La idea de esta aplicación es que alguien pueda subir una parte de su mástil roto (la que tenga intacta) y pueda subirlo a la plataforma para que otra gente pueda encontrarlo y que los usuarios puedan ponerse en contacto para acordar quién se queda la parte que toque. 
+
+Ya sé que el nicho es super reducido y que lo más seguro es que no lo utilice prácticamente nadie, pero la idea es que el proyecto nos sirva para aprender a desarrollar una app completa en JAMStack y si de paso la utiliza alguien pues mejor que mejor...
 
 Un poco más de información de lo que es JAMStack en freecodecamp: https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/
-
 
 Entonces, lo que vamos a necesitar va a ser lo siguiente:
 
@@ -17,7 +24,7 @@ En principio *'solo'* esto.
 Para resolverlo y después de un primer estudio de posibilidades, vamos a utilizar lo siguiente:
 
 1. [Gatsby](https://www.gatsbyjs.com/) como generador del sitio (SSG)
-2. [Sanity](https://sanity.io/) como Headless CMS
+2. [Sanity](https://sanity.io/) como Headless CMS  
   https://henrique.codes/insane-quest-perfect-cms-sanity/  
   https://www.sanity.io/blog/headless-cms-explained  
   https://headlesscms.org/  
@@ -31,6 +38,8 @@ Para resolverlo y después de un primer estudio de posibilidades, vamos a utiliz
 
 Montamos el sitio con el starter Hello World de Gatsby https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world/, totalmente vacío para empezar de cero y tener que hacerlo todo a mano. Lo conectamos a Netlify y Github para que se haga un build en cada subida a master.
 
+Et voilà: [Findmast](https://findmast.com)
+
 ## Cosas que hemos aprendido hoy
 
 * Crear un sitio con Gatsby
@@ -41,4 +50,3 @@ Para el siguiente día nos meteremos con el layout inicial. No vamos a utilizar 
 
 > Y de momento a documentarse, y no poco... 
 
-[Findmast](https://findmast.com)
