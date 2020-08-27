@@ -26,12 +26,13 @@ Me dejo por aquí un par de enlaces que seguro necesito:
 <a href="https://www.markdownguide.org/cheat-sheet/" rel="noopener nofollow noreferer" target="_blank">https://www.markdownguide.org/cheat-sheet/</a>
 
 
-
 ## Proyectos a crear
 
-Tenemos unos cuantos proyectos pendientes en [Supermundano](https://supermundano.com), pero para empezar a aprender como desarrollar un sitio JamStack con capacidades CRUD, la idea es hacer una aplicación. Yo soy Windsurfista y tuve la idea de crear una app que permitiera resolver un ligero problema. Resulta que cuando navegamos es posible que rompamos el mástil. Éste consta de dos partes y, si se rompe, normalmente la parte rota queda inservible y nos quedamos con la parte intacta sin poderla utilizar.
+Tenemos unos cuantos proyectos pendientes en [Supermundano](https://supermundano.com), pero para empezar a aprender como desarrollar un sitio JamStack con capacidades CRUD, la idea es hacer una aplicación. 
 
-La idea es crear una app en jamstack para que los usuarios puedan subir las partes de mástil que tengan por si puede servirle a alguien. Tengo ya un prototipo, pero hay muchas cosas que hacer para que todo funcione como toca.
+Yo soy windsurfista y tuve la idea de crear una app que permitiera resolver un ligero problema. Resulta que cuando navegamos es posible que rompamos el mástil. Éste consta de dos partes y, si se rompe, normalmente la parte rota queda inservible y nos quedamos con la otra parte intacta sin poderla utilizar.
+
+La idea es crear una app en JAMStack para que los usuarios puedan subir las partes de mástil que tengan por si puede servirle a alguien. Tengo ya un prototipo que seguramente descarte e inicie de nuevo, pero hay muchas cosas que hacer para que todo funcione como toca.
 
 Igual antes de empezar a darle caña a ese proyecto, rompo la mano un poco con el blog, así que iré rompiendo esto de vez en cuando... que nadie me lo tenga en cuenta.
 
